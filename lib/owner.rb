@@ -7,6 +7,4 @@ class Owner
     @name = name
     @species = human
   end
-    
-  
 end
