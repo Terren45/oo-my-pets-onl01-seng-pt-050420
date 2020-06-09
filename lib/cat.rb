@@ -10,6 +10,9 @@ def initialize(name, owner)
     @@all << self
   end
   
-  
+  def self.all
+        @name = name	    @@all
+        @mood = "nervous"	  end
+        @owner = owner	end
   
 end
