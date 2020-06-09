@@ -11,8 +11,6 @@ def initialize(name, owner)
   end
   
   def self.all
-        @name = name	    @@all
-        @mood = "nervous"	  end
-        @owner = owner	end
+      
   
 end
