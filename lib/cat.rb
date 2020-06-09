@@ -9,4 +9,7 @@ def initialize(name, owner)
     @owner = owner
     @@all << self
   end
+  
+  
+  
 end
