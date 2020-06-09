@@ -7,8 +7,9 @@ class Owner
     @name = name
   end
   
-  def initialize(human)
-    h
+  def initialize(species)
+    @human
+  end
     
   
 end
